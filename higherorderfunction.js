@@ -14,3 +14,9 @@ A.filter((i)=>
      console.log(i)
  
 )
+
+// for (let i = 0; i < A.length; i++) {
+//     console.log((A[i]));
+    
+    
+// }
